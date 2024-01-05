@@ -1,4 +1,4 @@
-Observation from Samuel Hammond, a senior economist at the Foundation for American Innovation from a recent podcast at the very end of 2023
+Observation from Samuel Hammond, a senior economist at the Foundation for American Innovation from a recent podcast at the very end of 2023 https://www.youtube.com/watch?v=AxrWNR3sBN0
 The text is a detailed discussion on artificial intelligence (AI), focusing on its advancements, implications, and societal impacts. Key ideas include:
 
 1. Timelines for AI and AGI Development:** Expectations and predictions about when AGI will be achieved.
