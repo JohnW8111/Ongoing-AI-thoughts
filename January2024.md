@@ -11,3 +11,28 @@ The text is a detailed discussion on artificial intelligence (AI), focusing on i
 8. **AI's Social and Cultural Impact:** How AI is affecting social norms, privacy, and cultural dynamics.
 9. **AI and Human Interaction:** The interplay between AI and human behavior, decision-making, and interaction.
 10. **Future Prospects and Challenges of AI:** Speculations on the future trajectory of AI and the challenges ahead.
+
+
+Latent Space Podcast (https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast-codegen-agents/id1674008350)
+tldraw https://drawfast.tldraw.com https://makereal.tldraw.com https://www.tldraw.com https://github.com/tldraw/make-real
+
+Background and Career Transition: Steve Ruiz shares his journey from being a studio artist with a Master's degree in Visual Art from the University of Chicago, focusing on contemporary art and exhibitions, to transitioning into tech and product design. This highlights the value of diverse backgrounds in tech and the ability to switch careers successfully.
+
+Late Entry into Tech: Steve’s story emphasizes that it's never too late to enter the tech industry, showcasing that a late entrance can bring fresh perspectives and unique approaches to technology and design.
+
+Combining Art and Tech: The blend of Steve's artistic background and technical skills illustrates the intersection of art and technology. His experience in fine arts contributes to his unique approach in the tech field, especially in product and technical design.
+
+Development of 'tldraw' and Other Projects: The podcast discusses the development of 'tldraw', a product that evolved from Steve’s interest in creating creative, collaborative experiences. This underscores the process of turning personal interests and skills into innovative projects and products.
+
+The Concept of Overnight Success: The discussion touches on the misconception of overnight success. Steve’s story reveals that success often comes after years of work and development, despite appearing sudden to outside observers.
+
+Importance of Networking and Relationships: The value of connections in the tech industry and beyond is highlighted. Building relationships and networking play a crucial role in career development and opportunities.
+
+Adapting and Learning New Skills: Steve’s ability to adapt and learn, such as teaching himself to code and entering product design, underlines the importance of continuous learning and flexibility in professional growth.
+
+Innovation in Design Tools: The podcast sheds light on the innovation in design tools and the development of new solutions, such as perfect freehand and other design-related projects Steve worked on.
+
+Start-Up Challenges and Successes: Steve shares insights into the challenges and successes of starting and running a tech company, providing a realistic view of entrepreneurship in the tech industry.
+
+Future of Technology and Design: The conversation also delves into the future possibilities in tech and design, reflecting on upcoming trends and the potential impact of new technologies.
+
