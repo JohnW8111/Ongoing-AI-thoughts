@@ -36,7 +36,7 @@ Start-Up Challenges and Successes: Steve shares insights into the challenges and
 
 Future of Technology and Design: The conversation also delves into the future possibilities in tech and design, reflecting on upcoming trends and the potential impact of new technologies.
 
-CogRev Jan. 9, 2024 AI-Powered Business Communications with Dan O'Connell, Chief AI & Strategy Officer at Dialpad
+CogRev https://www.cognitiverevolution.ai/ai-powered-business-communications-with-dan-oconnell-chief-ai-strategy-officer-at-dialpad/ Jan. 9, 2024 AI-Powered Business Communications with Dan O'Connell, Chief AI & Strategy Officer at Dialpad
 In this episode, Nathan sits down with Dan O’Connell, Chief AI & Strategy Officer at Dialpad.
 
 AI Adoption and Impact on Knowledge Work: The year 2023 witnessed significant growth in AI adoption, yet the pace was slower than expected. The global reach of language models like GPT-4 is still limited, highlighting the infancy of AI's integration into global knowledge work.
