@@ -36,3 +36,16 @@ Start-Up Challenges and Successes: Steve shares insights into the challenges and
 
 Future of Technology and Design: The conversation also delves into the future possibilities in tech and design, reflecting on upcoming trends and the potential impact of new technologies.
 
+CogRev Jan. 9, 2024 AI-Powered Business Communications with Dan O'Connell, Chief AI & Strategy Officer at Dialpad
+In this episode, Nathan sits down with Dan O’Connell, Chief AI & Strategy Officer at Dialpad.
+
+AI Adoption and Impact on Knowledge Work: The year 2023 witnessed significant growth in AI adoption, yet the pace was slower than expected. The global reach of language models like GPT-4 is still limited, highlighting the infancy of AI's integration into global knowledge work.
+Challenges in AI Integration: Companies face hurdles in integrating AI into workflows due to the specialized knowledge required and the scarcity of expertise in implementing AI solutions effectively. Additionally, AI agents haven't matured as anticipated, partly due to GPU shortages.
+Vision for Dialpad and AI Integration: Dialpad leverages AI to enhance its communications platform, which includes voice, video, and messaging services. They have developed proprietary data sets and AI models to improve transcription accuracy and offer features like real-time sentiment analysis, conversation summarization, and customer satisfaction inference.
+Building In-House AI Models: Dialpad has developed its own large language model trained on business-related conversations, addressing issues like token limits, latency, and costs that are common with foundational models. They aim for real-time AI applications to enhance user experience.
+Challenges of Personalization and Context Management: Personalizing AI responses and managing context over long conversations remain significant challenges. The goal is to eventually provide individualized AI models for each customer.
+Future of AI in Sales and Support: There's a belief in the potential of AI to automate and enhance sales and support functions, but with reservations about the pace of progress. The conversation reflects a cautious optimism about AI's role in transforming these domains.
+Ethical Considerations and Realism in AI: The interview touches on the importance of not deceiving users with AI, indicating a need for transparency when AI is used in customer interactions.
+Predictions and Expectations for AI's Future: The conversation shows differing views on the speed and extent of AI's future impact, with an acknowledgment that while AI has advanced rapidly, it might still face significant hurdles in completely transforming knowledge work. 
+
+
