@@ -48,4 +48,64 @@ Future of AI in Sales and Support: There's a belief in the potential of AI to au
 Ethical Considerations and Realism in AI: The interview touches on the importance of not deceiving users with AI, indicating a need for transparency when AI is used in customer interactions.
 Predictions and Expectations for AI's Future: The conversation shows differing views on the speed and extent of AI's future impact, with an acknowledgment that while AI has advanced rapidly, it might still face significant hurdles in completely transforming knowledge work. 
 
+Latent Space https://youtube-transcription-johnw8111.replit.app The Origin and Future of RLHF: the secret ingredient for ChatGPT - with Nathan Lambert. Great write up of this talk https://www.latent.space/p/rlhf-201
+
+podcast episode features Dr. Nathan Lambert, who has a background in robotics and model-based reinforcement learning (RHF). He has previously interned at FAIR and DeepMind, bootstrapped the RHF team at Hugging Face, and joined the Allen Institute as a research scientist​​. Lambert is known for his ultra-endurance sport activities like long-distance trail running and gravel biking​​.
+
+He also runs a blog called "Interconnects," where his popular posts include opinion pieces and articles on model training techniques and fine-tuning, particularly in RHF. One notable piece discusses the stress prevalent in the AI community regarding the pressure of getting 'scooped' and overworked​​.
+
+In this particular episode, Lambert talks about the podcast "Retort" and a paper he recently worked on, focusing on the differences between cost functions, reward functions, and preference functions in reinforcement learning (RL). He emphasizes that a core belief in RHF is that RL actually works by optimizing a reward function to achieve different performances​​.
+
+The conversation also delves into the historical development of RL and its applications in language models, discussing various seminal papers and the evolution of RHF since 2019. The episode touches on the importance of instruction tuning in RHF and how companies like Anthropic and OpenAI approach this process, including their different terminologies and descriptors for instruction tuning and RHF methodologies​​.
+
+Furthermore, Lambert highlights the challenges in assigning scalar rewards to responses in preference data collection and its complexity. The role of classifiers in deployment phases for safety and other considerations, such as in Lama 2 and Gemini models, was also discussed. He provided a cost estimate for training models like Lama 2, suggesting that GPU costs range from $3 to $6 million, with an additional $20 to $30 million for preference data​​.
+
+Lastly, Lambert mentions the potential for open-source and academic communities to develop ways to utilize any preference data on various models, underscoring the adaptability and innovation within these sectors​​.
+
+Thursday AI ThursdAI - Sunday special deep dive, interviews with Joao, and Jon, AI agent Crews and Bagel Merges
+https://github.com/joaomdmoura/CrewAI https://sub.thursdai.news/p/jan14-sunday-special-deep-dives?utm_source=podcast-email%2Csubstack&publication_id=1801228&post_id=140689559&utm_campaign=email-play-on-substack&utm_medium=email&r=1lppc6
+
+
+Alex Volkov's Introduction:
+Recorded in San Francisco at a hackathon.
+Hanging out with friends from Cerebral Valley.
+Thanks Cerebral Valley for the recording space.
+Episode Format:
+Usually reserves Sundays for special guests.
+Two conversations featured in this episode, though initially planned for one.
+First Guest: João Moura:
+Role: Director of AI at Clearbit, now part of HubSpot.
+Creator of Crew AI and Gentek AI framework.
+Crew AI Trending: Gained attention for trending on GitHub and Product Hunt.
+Framework Capabilities: Utilizes open-source, local models like Mistral or Mixtral, and can run on devices like Macs through LM Studio or Ollama.
+Discussion Focus: João's work on digital AI agents and their collaboration.
+Second Guest: John Durbin (Unplanned):
+Notable Work: Creation of Bagel series of models.
+Expertise: AI tinkering and merging different models using techniques like dissection and computing processes without additional training.
+Contribution: Bagel model development and insights into dataset creation and model optimization techniques.
+Additional Discussions:
+Hackathon Experience: Alex shares his experience and plans to include a summary in the newsletter.
+Upcoming Deep Dives: Intentions to explore more about model merging techniques and AI advancements.
+Audience Engagement:
+Encourages feedback and subscription to the newsletter.
+Promises more in-depth discussions in future episodes.
+Conclusion:
+
+The episode successfully delved into the realms of AI development and model integration, featuring insights from industry experts João Moura and John Durbin. Alex Volkov skillfully navigated the discussions, emphasizing the importance and potential of AI in various applications. The episode stands out for its blend of technical depth and accessibility, catering to both AI enthusiasts and professionals.
+
+
+Cog Rev Breaking Boundaries: AI CoScientist to Accelerate Science Research with Gabe Gomes, Professor at CMU https://www.youtube.com/watch?v=_GbZn7hJdfc
+The podcast "Cognitive Revolution" featured an interview with Gabe Gomez, Professor of Chemistry and Chemical Engineering at Carnegie Mellon University. Professor Gomez discussed his recent work in the field of autonomous chemical research using large language models, which was published in a Nature paper​​. https://www.nature.com/articles/s41586-023-06792-0
+
+The episode primarily revolved around the integration of AI, particularly large language models like GPT-4, with chemical research. The hosts shared their personal experiences in chemistry, noting the laborious nature of traditional research methods like optimizing Palladium catalyzed reactions. They expressed excitement about how automation, enabled by AI like GPT-4, could significantly reduce the manual, repetitive tasks often involved in chemical experiments​​.
+
+A critical aspect of the discussion was the development and application of a system called "co-scientist," which utilizes AI to automate and optimize various aspects of scientific research. This system is designed to take natural language inputs and convert them into executable code for conducting experiments, demonstrating a significant step towards the automation of science. It can interact with various laboratory environments and has the potential to accelerate scientific research by automating routine tasks and optimizing complex processes.
+
+Professor Gomez highlighted the democratization of science as a key benefit of this technology. He emphasized that it could make scientific research more accessible, allowing scientists to focus on creative and intellectual aspects rather than routine laboratory tasks. The system is not limited to chemistry but can be applied across different scientific fields, indicating its versatile nature​​.
+
+The conversation also touched on the challenges of implementing AI in scientific research, including ensuring generalizability and dealing with complex, multifaceted tasks. There was a focus on the importance of human-machine interactions and the potential for AI to assist in more complex tests in the future​​.
+
+In summary, the podcast explored the cutting-edge work of Professor Gomez and his team in integrating AI with chemical research, emphasizing the transformative potential of such technologies in science. The "co-scientist" system represents a
+
+
 
