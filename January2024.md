@@ -127,3 +127,44 @@ Future Expectations: There is a hopeful outlook on the future of AI, expecting m
 Public Perception and Reality of AI: A point is raised about public perception potentially viewing AI as underpowered or overhyped, especially if advancements take longer to materialize. However, the expectation is that AI will continue to evolve and become more integrated into various sectors.
 
 https://www.youtube.com/watch?v=-uWnHG5E1-g The Quest for Autonomous Web Agents with Div Garg, Cofounder and CEO of MultiOn
+AI Agents and Job Transformation: The episode begins with a discussion about how technology will change the nature of jobs, automating many digital chores and tasks currently performed by humans, much like how computers and typewriters transformed jobs in the past​​.
+State of AI Agents: Div G mentions that after an initial wave of enthusiasm for post-GPT-4 AI agents, the field experienced a trough of disillusionment. However, Multiion continued to build and iterate their product, which, while still limited compared to human assistants, has shown impressive successes and has been made available to more users through a private beta​​.
+Capabilities and Challenges: The current state of AI agents is early in terms of capabilities. A major challenge is that these agents are not trained to understand the specific environments they operate in, such as web or code environments. Humans, by contrast, learn and adapt quickly through trial and error, a feature not yet fully replicated in AI agents​​.
+Future Directions and Learning: Div G expresses excitement about enabling agents to adapt and learn behaviors automatically, possibly through online learning. He discusses collaborating with academia to apply research in reinforcement learning (RL) and imitation learning (IL) to practical industry applications​​.
+Towards Multimodal Systems: Div G explains the shift from purely language-based models to multimodal systems that incorporate different types of models, including action Transformers. He emphasizes the importance of optimizing these models for efficiency and information processing, preparing for future advancements like GPT-5​​.
+Real-World Testing and Benchmarks: Manual testing remains crucial in evaluating AI agents' performance due to the dynamic nature of the internet and websites. Multiion uses real-world tests, like ordering a burger or calling an Uber, and scenario-based automated tests to measure the effectiveness of their models​​.
+Optimization and Efficiency: Multiion focuses not just on performance but also on efficiency, aiming to be significantly faster than human speeds. This approach ensures that the product is not just research-oriented but practically useful and snappy in real-world applications​​.
+Vision and Action Steps: Vision is highlighted as a key component in enhancing AI agents. However, current vision models struggle with actions based on visual inputs, like locating coordinates from an image. Multiion aims to overcome these challenges by intelligently combining language and visual data​​.
+Cost Considerations: The cost of running tasks on AI agents is measured in steps, with each step costing not more than 10 cents. Multiion strives to reduce this cost further through efficient model usage and caching strategies​​.
+Customization and Use of GPT-4: Multiion uses a combination of open-source architectures and fine-tunes them for specific tasks. They also employ GPT-4 for certain functions like planning, emphasizing the adaptability of their system to different models and APIs​​.
+
+
+Gradient dissent https://www.youtube.com/watch?v=BV4t6AY4KN8 AI's Future: Investment & Impact with Sarah Guo and Elad Gil of the No Priors Podcast
+The transcription from the "Gradient Descent" podcast, hosted by Lucas B, features a comprehensive conversation with Alad Gil and Sarah Guo, prominent investors in AI startups. The discussion covers various aspects of AI development, investment strategies, and the future of AI technologies. Below is a summarized breakdown of key points covered in the conversation:
+
+AI Research and Investment Trends:
+Sarah Guo focuses on staying updated with the latest LLM (Large Language Model) research. She discusses sourcing research papers and prioritizing those relevant to her portfolio companies.
+Interest in papers about improving code generation quality and self-debugging tools was highlighted, reflecting on research from MIT, Microsoft Research, and DeepMind.
+Code Generation and Product Development:
+Discussions revolved around balancing research and product development, particularly in code generation (Coen).
+Alad Gil emphasized on companies sometimes over-focusing on research instead of quick product deployment. He suggested leveraging existing models like GPT-4 for product development.
+Implications of AI on Software Engineering:
+The role of software engineers in an AI-dominated world was discussed. Both panelists agreed that while traditional coding skills remain important, AI opens up more opportunities for broader participation in software development.
+AI's Industry Impact and Coen:
+Alad Gil mentioned that Coen is ahead in AI application due to its structured language nature, making it more tractable for LLMs.
+There was a consensus that AI's impact would be significant across various industries, with a specific emphasis on software generation being a powerful tool.
+The Future of AI in Enterprises:
+The conversation shifted to how AI is adopted in enterprises, with a focus on companies like Zapier. There was an agreement that companies adopting AI technologies early on are generally more product-driven and technically oriented.
+A prediction was made that mainstream enterprise adoption of AI is still a few years away.
+Creative AI Applications:
+The panelists observed rapid growth in creative AI applications, like Mid Journey and Pika, expanding the definition of "creatives."
+They noted that many of these applications serve business-related purposes rather than purely creative endeavors.
+Investment Strategies and AI Company Valuations:
+The discussion touched upon the high valuations of AI companies, especially those working on foundational models.
+They discussed the power law in value creation, where a few companies accrue most of the market value. This situation leads to high valuations for leaders in new technology stacks, as seen with OpenAI and Nvidia.
+AI and Blockchain Intersection:
+The conversation explored potential intersections between AI and blockchain, especially concerning identity management and payment systems.
+It was suggested that agents in the future might interact programmatically, using blockchain for secure identity verification and transactions.
+Use of Multiple AI Models in Products:
+The panelists talked about companies using a diverse range of AI models for different features, citing Descript as an example.
+They discussed the trade-offs between model performance, cost, and latency, emphasizing that most companies should avoid training general foundational models from scratch due to high costs.
