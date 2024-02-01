@@ -91,7 +91,7 @@ Conclusion:
 The episode successfully delved into the realms of AI development and model integration, featuring insights from industry experts João Moura and John Durbin. Alex Volkov skillfully navigated the discussions, emphasizing the importance and potential of AI in various applications. The episode stands out for its blend of technical depth and accessibility, catering to both AI enthusiasts and professionals.
 
 
-7.Cog Rev Breaking Boundaries: AI CoScientist to Accelerate Science Research with Gabe Gomes, Professor at CMU https://www.youtube.com/watch?v=_GbZn7hJdfc
+6.Cog Rev Breaking Boundaries: AI CoScientist to Accelerate Science Research with Gabe Gomes, Professor at CMU https://www.youtube.com/watch?v=_GbZn7hJdfc
 The podcast "Cognitive Revolution" featured an interview with Gabe Gomez, Professor of Chemistry and Chemical Engineering at Carnegie Mellon University. Professor Gomez discussed his recent work in the field of autonomous chemical research using large language models, which was published in a Nature paper​​. https://www.nature.com/articles/s41586-023-06792-0
 
 The episode primarily revolved around the integration of AI, particularly large language models like GPT-4, with chemical research. The hosts shared their personal experiences in chemistry, noting the laborious nature of traditional research methods like optimizing Palladium catalyzed reactions. They expressed excitement about how automation, enabled by AI like GPT-4, could significantly reduce the manual, repetitive tasks often involved in chemical experiments​​.
@@ -105,7 +105,7 @@ The conversation also touched on the challenges of implementing AI in scientific
 In summary, the podcast explored the cutting-edge work of Professor Gomez and his team in integrating AI with chemical research, emphasizing the transformative potential of such technologies in science. The "co-scientist" system represents a
 
 
-8.Practical AI https://changelog.com/practicalai/251
+7.Practical AI https://changelog.com/practicalai/251
 
 Daniel Whitenack: Well, Chris, one of the things that we did leading up to this conversation was take a look at dozens of these "This is what I'm predicting for AI in 2024" posts on Twitter and LinkedIn, and kind of crystallized down or distilled down some trends of what people were predicting. So I'm gonna take what I kind of distilled down from all of these posts, and I'll just put it out there, and we can comment on any of those... And then it may be interesting to look at a couple of these from specific people; that might be interesting, because a lot of people have been making these predictions.
 
@@ -113,7 +113,7 @@ So I did not do this with AI, but if you actually just look through the internet
 
 So the common points that were predicted by many different people across the interwebs - I put them in five categories here. So I'll just read them off, and then we can make a comment on any of them if you want. So RAG, or retrieval-augmented generation, will continue to be a focus and will experience various improvements. So that's number one. Number two, open models will beat GPT-4 in 2024. Number three, productivity in work will be enhanced by AI, rather than replaced by AI. Number four, multimodal models will be more of a focus in 2024. I actually think that was one that I predicted last year when we did our predictions, o maybe I was a year off... So there you go, I was a year off. And then number five, there'll be more focus on small language models, rather than large language models, because of economic and compute efficiency.
 
-9.https://www.youtube.com/@CognitiveRevolutionPodcast Unlocking Enterprise Data with Knowledge Graphs and AI, with Juan Sequeda, Principal Scientist and Head of AI Lab at Data.world
+8.https://www.youtube.com/@CognitiveRevolutionPodcast Unlocking Enterprise Data with Knowledge Graphs and AI, with Juan Sequeda, Principal Scientist and Head of AI Lab at Data.world
 Main Discussion Points
 Generative AI in Various Fields: The episode delves into how generative AI models, like GPT-4, are being integrated into a wide array of fields, including chemistry, medical diagnosis, and enterprise data management.
 Challenges in Enterprise Data Integration: The podcast highlights the challenges faced in integrating AI into enterprise data systems. It's noted that while AI has shown significant potential, its integration is not always straightforward and can be complex.
@@ -123,7 +123,7 @@ AI's Impact on Business Processes and Systems: The podcast suggests that the nex
 Future Expectations: There is a hopeful outlook on the future of AI, expecting more leaps in capabilities. The foundational work being done today is seen as crucial for faster and more impactful deployment of future AI advancements.
 Public Perception and Reality of AI: A point is raised about public perception potentially viewing AI as underpowered or overhyped, especially if advancements take longer to materialize. However, the expectation is that AI will continue to evolve and become more integrated into various sectors.
 
-10.https://www.youtube.com/watch?v=-uWnHG5E1-g The Quest for Autonomous Web Agents with Div Garg, Cofounder and CEO of MultiOn
+9.https://www.youtube.com/watch?v=-uWnHG5E1-g The Quest for Autonomous Web Agents with Div Garg, Cofounder and CEO of MultiOn
 AI Agents and Job Transformation: The episode begins with a discussion about how technology will change the nature of jobs, automating many digital chores and tasks currently performed by humans, much like how computers and typewriters transformed jobs in the past​​.
 State of AI Agents: Div G mentions that after an initial wave of enthusiasm for post-GPT-4 AI agents, the field experienced a trough of disillusionment. However, Multiion continued to build and iterate their product, which, while still limited compared to human assistants, has shown impressive successes and has been made available to more users through a private beta​​.
 Capabilities and Challenges: The current state of AI agents is early in terms of capabilities. A major challenge is that these agents are not trained to understand the specific environments they operate in, such as web or code environments. Humans, by contrast, learn and adapt quickly through trial and error, a feature not yet fully replicated in AI agents​​.
@@ -136,7 +136,7 @@ Cost Considerations: The cost of running tasks on AI agents is measured in steps
 Customization and Use of GPT-4: Multiion uses a combination of open-source architectures and fine-tunes them for specific tasks. They also employ GPT-4 for certain functions like planning, emphasizing the adaptability of their system to different models and APIs​​.
 
 
-11.Gradient dissent https://www.youtube.com/watch?v=BV4t6AY4KN8 AI's Future: Investment & Impact with Sarah Guo and Elad Gil of the No Priors Podcast
+10.Gradient dissent https://www.youtube.com/watch?v=BV4t6AY4KN8 AI's Future: Investment & Impact with Sarah Guo and Elad Gil of the No Priors Podcast
 The transcription from the "Gradient Descent" podcast, hosted by Lucas B, features a comprehensive conversation with Alad Gil and Sarah Guo, prominent investors in AI startups. The discussion covers various aspects of AI development, investment strategies, and the future of AI technologies. Below is a summarized breakdown of key points covered in the conversation:
 
 AI Research and Investment Trends:
@@ -166,7 +166,7 @@ Use of Multiple AI Models in Products:
 The panelists talked about companies using a diverse range of AI models for different features, citing Descript as an example.
 They discussed the trade-offs between model performance, cost, and latency, emphasizing that most companies should avoid training general foundational models from scratch due to high costs.
 
-12.Latent Space 
+11.Latent Space 
 The provided text is a comprehensive transcript of a podcast episode from "Len space," where the hosts, Alesio and Swix, discuss various topics related to AI. They cover the evolution of AI in 2023, notable developments, and their implications for the future. Key points include:
 
 - Discussion on AI developments in 2023, including advancements and community engagement.
