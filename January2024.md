@@ -1,3 +1,26 @@
+There are 11 podcast that I listened to this month. Not everyone was summarized but most of the important ones were. Here is a high level on each of the podcasts
+1. Samuel Hammond discusses the impact of AI advancements on society, highlighting the need for agile policymaking and the integration of technology with government and academic collaboration【5†source】.
+
+2. Steve Ruiz shares his transition from art to tech, emphasizing the importance of diverse backgrounds in technology and the innovative development of 'tldraw'.
+
+3. Dan O'Connell discusses the integration of AI in business communications at Dialpad, focusing on the challenges of AI adoption and the development of proprietary AI models for improved customer interactions.
+
+4. Nathan Lambert explores the nuances of reinforcement learning and its application in AI, highlighting the challenges and future prospects of model training and safety.
+
+5. The episode features insights from João Moura Crew AI and John Durbin on AI development and model integration, showcasing the blend of technical depth and innovation in AI applications.
+
+6. Gabe Gomez discusses the use of AI to automate scientific research, emphasizing the potential of AI to democratize science and accelerate research through the "co-scientist" system】.
+
+7. Daniel Whitenack and Chris delve into AI predictions for 2024, discussing trends like retrieval-augmented generation and the shift towards smaller, more efficient language models.
+
+8. Juan Sequeda explores the integration of AI in enterprise data management, discussing the challenges and future potential of AI to transform business processes.
+
+9. Div Garg discusses the evolution and challenges of AI agents, focusing on their potential to automate tasks and the importance of multimodal systems for future advancements】.
+
+10. Sarah Guo and Elad Gil discuss AI investment trends and the impact of AI on software engineering, highlighting the significant potential of AI across various industries.
+
+11. The hosts, Alesio and Swix, discuss AI developments in 2023, focusing on challenges like data quality and GPU accessibility, and the future directions for AI development.
+
 1.Observation from Samuel Hammond, a senior economist at the Foundation for American Innovation from a recent podcast at the very end of 2023 https://www.youtube.com/watch?v=AxrWNR3sBN0
 The text is a detailed discussion on artificial intelligence (AI), focusing on its advancements, implications, and societal impacts. Key ideas include:
 
