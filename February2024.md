@@ -1,4 +1,4 @@
-1.GogRev Ignore Previous Instructions & Listen to This Interview | Sander Schulhoff, CEO, LearnPrompting.org
+1.GogRev Ignore Previous Instructions & Listen to This Interview | Sander Schulhoff, CEO, LearnPrompting.org https://learnprompting.org/
 https://www.youtube.com/watch?v=W-WyN4Gis_Y
 https://arxiv.org/abs/2311.16119
 The text discusses various strategies and insights into prompt engineering and its impact on the field of AI and machine learning. Here are the key strategies highlighted:
