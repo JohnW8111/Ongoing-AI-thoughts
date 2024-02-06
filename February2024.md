@@ -84,3 +84,21 @@ The text discusses a conversation on the Cognitive Revolution podcast with Yohi 
 10. **Collective Intelligence and Technology**: The concept of collective intelligence is discussed, with technology like computers and the internet being considered part of human society's collective identity.
 
 This summary reflects on the broad topics covered during the podcast, emphasizing the intersection of culture, identity, and the transformative potential of AI.
+
+Weights & Biases The Power of AI in Search with You.com's Richard Socher https://www.youtube.com/watch?v=-yRAQlOIvGY
+The talk features a conversation with Richard Socher, a pioneer at the intersection of deep learning and language models, and Lucas, the host of Gradient Descent. Socher's journey from his academic beginnings in Germany to leading AI efforts at Salesforce and founding You.com is explored, along with insights into the evolution of AI and machine learning. They discuss challenges and breakthroughs in NLP, the importance of feature learning over engineering, and the potential of AI in various fields, including search engines and healthcare. Here's a summarization in bullet points:
+
+1. Richard Socher's background in linguistic computer science and his early interest in combining math and languages.
+2. His academic journey, including studies at the Max Planck Institute and Stanford, where he encountered deep learning.
+3. The shift from feature engineering to learning in NLP, and the development of word vectors and sentence-image mapping models.
+4. The founding of MetaMind, aiming to simplify training neural networks for organizations, and its acquisition by Salesforce.
+5. The creation of the AI Economist to explore taxation and subsidy effects on economy and equality.
+6. The inception of prompt engineering and the vision for a single model for all of NLP.
+7. The foundation of You.com and AX Ventures, focusing on changing search with AI and creating a more AI-forward search engine.
+8. The challenge of competing with Google and the need for a general-purpose AI platform that speaks to customer use cases.
+9. The evolution of You.com to incorporate LMs into search, emphasizing user adaptation to AI-enhanced search experiences.
+10. Innovations at You.com, including multimodal search capabilities and programming execution within search.
+11. The competitive landscape in AI and search, and the potential for AI to assist in complex queries and learning.
+12. The importance of ethical considerations in AI development, particularly in content restriction and security.
+
+In summary, the talk delves into the transformative potential of AI across various domains, emphasizing the importance of innovation, ethical use, and the ongoing evolution of search engines to better meet user needs. Socher's journey underscores the rapid advancements in AI and the critical role of pioneering research and application in shaping the future of technology.
