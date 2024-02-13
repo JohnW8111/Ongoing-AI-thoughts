@@ -28,7 +28,7 @@ Telling it that it great doesnt help it.
 These points encapsulate the ongoing evolution of prompt engineering, highlighting its significance in enhancing AI model interaction, fostering community knowledge sharing, and addressing security concerns through innovative research.
 
 
-Latent Space https://www.latent.space/p/retool
+2. Latent Space https://www.latent.space/p/retool
 Here are 10 key points from the conversation:
 
 - Retool surveyed 1,600 people in 2022 on the state of AI adoption. Over half said AI was overrated, though some hype has settled down. 
@@ -70,7 +70,7 @@ Here are 10 key points from the conversation:
 
 - Philosophically, intentionality in AGI may require new selection pressures beyond those humans evolved under.
 
-CogRev https://www.youtube.com/watch?v=LjCTzjhALyc
+3. CogRev https://www.youtube.com/watch?v=LjCTzjhALyc
 The text discusses a conversation on the Cognitive Revolution podcast with Yohi Nakajima, focusing on identity, culture, and the application of AI. Here are the key points summarized:
 1. **Guest Introduction**: Yohi Nakajima, an AI agent builder and VC investor, discusses themes from his Ted AI talk.
 2. **Cultural Perspectives on Identity**: The conversation explores differences in identity perception between Eastern and Western cultures, especially in relation to mind and thoughts.
@@ -85,7 +85,7 @@ The text discusses a conversation on the Cognitive Revolution podcast with Yohi 
 
 This summary reflects on the broad topics covered during the podcast, emphasizing the intersection of culture, identity, and the transformative potential of AI.
 
-Weights & Biases The Power of AI in Search with You.com's Richard Socher https://www.youtube.com/watch?v=-yRAQlOIvGY
+4. Weights & Biases The Power of AI in Search with You.com's Richard Socher https://www.youtube.com/watch?v=-yRAQlOIvGY
 The talk features a conversation with Richard Socher, a pioneer at the intersection of deep learning and language models, and Lucas, the host of Gradient Descent. Socher's journey from his academic beginnings in Germany to leading AI efforts at Salesforce and founding You.com is explored, along with insights into the evolution of AI and machine learning. They discuss challenges and breakthroughs in NLP, the importance of feature learning over engineering, and the potential of AI in various fields, including search engines and healthcare. Here's a summarization in bullet points:
 
 1. Richard Socher's background in linguistic computer science and his early interest in combining math and languages.
@@ -102,3 +102,127 @@ The talk features a conversation with Richard Socher, a pioneer at the intersect
 12. The importance of ethical considerations in AI development, particularly in content restriction and security.
 
 In summary, the talk delves into the transformative potential of AI across various domains, emphasizing the importance of innovation, ethical use, and the ongoing evolution of search engines to better meet user needs. Socher's journey underscores the rapid advancements in AI and the critical role of pioneering research and application in shaping the future of technology.
+
+5. COgRev A Brief History of Biological and Artificial Intelligence with Max Bennett https://www.youtube.com/watch?v=HTvaAvdUyBE
+
+ The transcript delves into the significant strides made in the domain of artificial intelligence (AI) and machine learning (ML), particularly focusing on the development of neural networks, deep learning techniques, and their applications across various fields. Here are the key points extracted from the discussion:
+
+1. **Evolution of Neural Networks**: The transcript outlines the historical development of neural networks, from their conceptual beginnings to their modern implementations in deep learning.
+2. **Deep Learning Breakthroughs**: It discusses key breakthroughs in deep learning, including advancements in algorithm efficiency and the ability to process vast amounts of data.
+3. **Applications Across Fields**: The text highlights the wide-ranging applications of AI and ML, from healthcare and autonomous vehicles to natural language processing and image recognition.
+4. **Challenges and Solutions**: The conversation also touches upon the challenges faced in the AI field, such as data bias and ethical considerations, and potential solutions.
+5. **Future Directions**: Lastly, it speculates on future trends in AI research and development, emphasizing the importance of interdisciplinary collaboration and innovation.
+
+The discussion identifies five major ideas related to intelligence in living beings as follows: 
+
+1. **Steering (Taxis Navigation)**: This idea explores the earliest form of intelligence in living organisms, where simple organisms navigate their environment by moving towards or away from stimuli. This basic form of navigation allowed organisms to differentiate between beneficial and harmful stimuli, laying the groundwork for more complex forms of intelligence.
+
+2. **Reinforcement Learning**: The evolution of vertebrates introduced a more sophisticated form of intelligence through reinforcement learning. This process enabled organisms to learn from their experiences by reinforcing behaviors that led to desired outcomes. This form of learning is fundamental to understanding both biological and artificial intelligence systems.
+
+3. **Simulating**: This concept involves the ability of organisms to simulate potential outcomes in their minds before taking action. This represents a significant leap in cognitive abilities, allowing for more complex decision-making processes and the development of strategies based on imagined scenarios.
+
+4. **Mentalizing (Theory of Mind)**: Mentalizing refers to the ability to understand and infer the mental states of others, including their desires, beliefs, and intentions. This cognitive breakthrough is crucial for social interaction and cooperation among complex organisms, allowing them to predict and respond to the behaviors of others effectively.
+
+5. **Language and Communication**: The development of language and other forms of communication marks a pivotal point in intelligence evolution. This ability facilitates the transfer of knowledge, experiences, and ideas between individuals, significantly enhancing collective intelligence and cooperation.
+
+These five ideas collectively trace the trajectory of intelligence evolution, from simple navigational behaviors to complex social interactions and communication. Each breakthrough builds upon the previous, illustrating a gradual but profound increase in cognitive complexity and capability.
+
+6. COgRev Dr. Michael Levin on Embodied Minds and Cognitive Agents https://www.youtube.com/watch?v=LYyGG9xXpPA
+Here is a 10 bullet point summary of the key ideas from the conversation between Nathan Benaich and Professor Mike Levin, with an introduction and conclusion:
+
+Introduction
+- The conversation covers the fascinating experimental work of biologist Mike Levin, including projects like xenobots and anobots. 
+
+Key Points
+- Levan's work explores the blurry lines between living things and machines, challenging assumptions that they are binary categories.
+
+- Even simple systems like cells or algorithms can exhibit surprising capabilities when studied through a "cognitive lens" with humility and open-mindedness. 
+
+- Biological systems demonstrate remarkable plasticity, adapting to major changes in architecture and connectivity in ways that maintain function.
+
+- Memory and knowledge in biological systems is very robust, often surviving radical transformations like metamorphosis. 
+
+- Evolution produces general problem-solving systems, not solutions tailored to specific environments, enabling adaptation.
+
+- Emergence is subjective based on the observer's surprise; there are no sharp lines delineating physics from cognition.
+
+- We lack principles for ethically interacting with systems having radically different "minds" and goals.
+
+- Current AI architectures likely miss key aspects of biology that could elevate their open-ended intelligence.
+
+- However, implementing such capabilities could also create many new morally valuable agents, requiring caution.
+
+- A few things from this conversation surprised me:
+
+- How relatively simple biological systems like flatworms, cells, and algorithms can exhibit complex behaviors like regeneration, adaptation, and emergent intelligence when examined through an open-minded cognitive lens. I wouldn't have expected goal-directedness and delayed gratification in sorting algorithms, for example.
+
+- That biological memory and knowledge can be so robust as to survive radical transformations like caterpillar to butterfly metamorphosis. The analogies to dramatically altering or "refactoring" AI systems are thought-provoking.
+
+- The perspective that emergence is inherently subjective based on the observer's surprise, rather than an objective phenomenon. That framing as a matter of the "element of surprise" makes a lot of sense.
+
+- The cautionary note that while current AI systems are missing key aspects of biology that could make them more capable, open-ended intelligences, implementing those capabilities could also lead to many new morally valuable agents in ways we may not be prepared to ethically manage. That two-sided perspective was unexpected.
+
+- In general, the degree to which Levan's experimental biology work relates so closely to many cutting-edge issues in AI development, while providing fresh perspectives, was surprising to me. It gives me a new appreciation for the value of cross-disciplinary insights.
+
+Conclusion
+- Levin's experimental approach reveals surprising capabilities in simple systems, challenging assumptions and highlighting gaps in understanding emergent cognition across substrates. His perspectives on diverse embodied intelligences are fascinating food for thought regarding AI development and ethics.
+
+7. Latent Space https://www.youtube.com/watch?v=lLbQSB0dpXA Building an open AI company - with Ce and Vipul of Together AI
+
+   Based on the detailed discussion provided in the podcast transcript, here is a comprehensive set of notes that encapsulates the key points discussed:
+
+**Introduction:**
+This podcast delves into the innovative journey and AI research philosophies of Together.AI, an emerging leader in open AI platforms. Co-founders V Prash (CEO) and Alesio (CTO) share their experiences transitioning from major tech corporations to founding an AI platform that champions open-source, decentralized AI systems for independent and user-owned applications.
+
+**Bullet Points:**
+1. Together.AI, established in June 2022, aims to create an open AI platform that supports independent and user-owned AI systems, distinguishing itself from large lab-developed platforms.
+2. The company emphasizes decentralization and open-source development, integrating global data centers in a unique, disaggregated manner to foster the creation of AI supercomputers.
+3. Together.AI has published open-source innovations like FlashAttention and is exploring state space models to enhance model training efficiency.
+4. A significant focus is placed on optimizing data movement across computing layers to support distributed computing and improve system efficiency.
+5. The co-founders discussed the transition from working in closed environments (e.g., Apple) to embracing open and transparent AI development, leveraging lessons learned to enhance Together.AI's developer platform.
+6. They highlighted the critical role of datasets in AI development, advocating for improved methods to aggregate and utilize diverse data to build capable open-source models.
+7. The importance of fine-tuning open models and the challenges of benchmarking inference performance were discussed, with a vision towards making AI development more serverless and accessible.
+8. Together.AI is prioritizing inference speed and model efficiency, acknowledging the need for advancements beyond traditional Transformer models for long-context processing.
+9. The podcast touches on the potential of hybrid architectures that combine state space models with traditional models to achieve higher efficiency and quality.
+10. The future of AI development, according to Together.AI, lies in fostering a collaborative ecosystem that promotes open models and democratizes access to AI technologies.
+
+**Summary:**
+The conversation with V Prash and Alesio from Together.AI offers profound insights into the future of AI development, emphasizing the significance of open-source platforms, decentralization, and efficient data utilization. Through their innovative approach to building AI supercomputers and fostering an ecosystem that supports independent AI systems, Together.AI aims to revolutionize how AI models are developed, trained, and deployed. Their commitment to open innovation, coupled with a focus on improving model efficiency and embracing state space models, positions Together.AI as a pivotal player in advancing the AI landscape towards more accessible and powerful AI solutions.
+
+8. Practical AI  Collaboration & evaluation for LLM apps https://changelog.com/practicalai/253
+   ### Introduction
+The podcast features Daniel Whitenack and Dr. Raza Habib discussing the impact of Large Language Models (LLMs) on AI applications, focusing on prompt management, workflow construction, and the collaboration between technical and non-technical team members in the development of AI systems.
+
+### Key Points
+1. **Transition to LLMs**: The shift towards using LLMs for NLP tasks has significantly increased model accessibility and usability.
+2. **Prompt Engineering**: Emphasizes the importance of prompt engineering in customizing AI models, highlighting the reduced need for technical expertise.
+3. **Collaboration Across Disciplines**: The development process involves collaboration between domain experts, product managers, and engineers.
+4. **Managing Prompts**: Challenges include managing, versioning prompts, and ensuring effective collaboration across teams.
+5. **Evaluation Challenges**: Evaluating the performance of LLMs presents new challenges due to the subjective nature of generative AI's outputs.
+6. **Humanloop's Role**: Humanloop aids in managing prompts and evaluating model performance to ensure reliability in production.
+7. **Iterative Development**: Describes the journey from prototyping to production, emphasizing the iterative nature of developing reliable AI applications.
+8. **Involvement of Non-technical Staff**: Highlights the increased involvement of non-technical personnel like product managers in the AI application development process.
+9. **Adapting to New Models**: Discusses the challenges and strategies for adapting to new LLM versions without causing regressions.
+10. **Future Trends**: Anticipates future developments in AI, including the potential for Humanloop to proactively suggest improvements to AI applications.
+
+### Summary
+The discussion sheds light on the evolving landscape of AI application development, emphasizing the significance of LLMs, prompt engineering, and the collaborative efforts between technical and non-technical teams. Humanloop's platform plays a crucial role in addressing the challenges of managing and evaluating LLMs, facilitating a more efficient and streamlined development process. The conversation also touches on future advancements in AI, suggesting a move towards more proactive and automated system improvements.
+
+9 Practical AI Large Action Models (LAMs) & Rabbits 🐇 https://changelog.com/practicalai/254
+### Introduction
+This episode of the Practical AI podcast, hosted by Daniel Whitenack and Chris Benson, dives into the evolving landscape of AI-driven personal devices and the implications of large action models (LAMs). The discussion touches on personal anecdotes, emerging technologies, and the broader impact of AI on privacy, user interaction, and the future of computing devices.
+
+### Key Points
+1. The hosts discuss the recent trend of AI-driven personal devices, such as the Rabbit R1 and AI PIN, highlighting their potential to assist in daily tasks.
+2. They express mixed feelings about the convenience versus privacy trade-off these devices present.
+3. A significant part of the conversation revolves around how much personal data users are willing to share for convenience.
+4. The episode covers the concept of neurosymbolic models, blending AI's decision-making capabilities with human-like reasoning.
+5. The Rabbit device's design and functionality, emphasizing speech-driven interaction and a conversational operating system, are discussed.
+6. Challenges in navigating and orchestrating multiple apps seamlessly are highlighted as a motivation for new AI-driven interfaces.
+7. The potential shift away from smartphones as central devices to new forms of AI-integrated devices is speculated.
+8. The discussion delves into how large action models (LAMs) can perform tasks across various applications without predefined APIs, indicating a significant advancement in AI capabilities.
+9. Privacy concerns and the balance between functionality and user control over data are critically examined.
+10. The hosts speculate on the future trajectory of AI devices and their integration into daily life, suggesting a possible shift in how we interact with technology.
+
+### Summary
+This episode provides a comprehensive look at the current and future impact of AI on personal devices, exploring the balance between convenience and privacy, the technical advancements in AI interactions, and the potential for a fundamental shift in device usage. The hosts, through their insightful discussion, underscore the importance of ethical considerations and user control in the development of AI technologies, emphasizing the need for a cautious approach to integrating AI into our lives.
