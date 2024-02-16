@@ -72,34 +72,34 @@ Here are 10 key points from the conversation:
 
 3. CogRev https://www.youtube.com/watch?v=LjCTzjhALyc
 The text discusses a conversation on the Cognitive Revolution podcast with Yohi Nakajima, focusing on identity, culture, and the application of AI. Here are the key points summarized:
-1. **Guest Introduction**: Yohi Nakajima, an AI agent builder and VC investor, discusses themes from his Ted AI talk.
-2. **Cultural Perspectives on Identity**: The conversation explores differences in identity perception between Eastern and Western cultures, especially in relation to mind and thoughts.
-3. **Utilizing AI in Daily Life**: Yohi talks about converting information into a structured knowledge graph for better connectivity and understanding among people.
-4. **AI as a Tool for Connection**: There's a discussion on AI's potential to find commonalities between different groups and foster new ideas.
-5. **Development Process of AI Tools**: Yohi describes his iterative process in building and testing AI models with various prompts and examples.
-6. **Application of AI for Web Research**: The importance of AI in enhancing web research through specific searches and knowledge retrieval is highlighted.
-7. **Prototyping an Autonomous CRM**: Yohi shares his experiment with a CRM prototype using Game of Thrones episode descriptions to build a knowledge graph.
-8. **Redefining Identity in the Digital Age**: The conversation encourages thinking of identity as part of a larger system rather than an internal, individualistic perspective.
-9. **Philosophy Embedded in Language**: Yohi appreciates the philosophical aspects embedded in languages, particularly Japanese, and its influence on communication and perception.
-10. **Collective Intelligence and Technology**: The concept of collective intelligence is discussed, with technology like computers and the internet being considered part of human society's collective identity.
+   **Guest Introduction**: Yohi Nakajima, an AI agent builder and VC investor, discusses themes from his Ted AI talk.
+   **Cultural Perspectives on Identity**: The conversation explores differences in identity perception between Eastern and Western cultures, especially in relation to mind and thoughts.
+   **Utilizing AI in Daily Life**: Yohi talks about converting information into a structured knowledge graph for better connectivity and understanding among people.
+   **AI as a Tool for Connection**: There's a discussion on AI's potential to find commonalities between different groups and foster new ideas.
+   **Development Process of AI Tools**: Yohi describes his iterative process in building and testing AI models with various prompts and examples.
+   **Application of AI for Web Research**: The importance of AI in enhancing web research through specific searches and knowledge retrieval is highlighted.
+   **Prototyping an Autonomous CRM**: Yohi shares his experiment with a CRM prototype using Game of Thrones episode descriptions to build a knowledge graph.
+   **Redefining Identity in the Digital Age**: The conversation encourages thinking of identity as part of a larger system rather than an internal, individualistic perspective.
+   **Philosophy Embedded in Language**: Yohi appreciates the philosophical aspects embedded in languages, particularly Japanese, and its influence on communication and perception.
+   **Collective Intelligence and Technology**: The concept of collective intelligence is discussed, with technology like computers and the internet being considered part of human society's collective identity.
 
 This summary reflects on the broad topics covered during the podcast, emphasizing the intersection of culture, identity, and the transformative potential of AI.
 
 4. Weights & Biases The Power of AI in Search with You.com's Richard Socher https://www.youtube.com/watch?v=-yRAQlOIvGY
 The talk features a conversation with Richard Socher, a pioneer at the intersection of deep learning and language models, and Lucas, the host of Gradient Descent. Socher's journey from his academic beginnings in Germany to leading AI efforts at Salesforce and founding You.com is explored, along with insights into the evolution of AI and machine learning. They discuss challenges and breakthroughs in NLP, the importance of feature learning over engineering, and the potential of AI in various fields, including search engines and healthcare. Here's a summarization in bullet points:
 
-1. Richard Socher's background in linguistic computer science and his early interest in combining math and languages.
-2. His academic journey, including studies at the Max Planck Institute and Stanford, where he encountered deep learning.
-3. The shift from feature engineering to learning in NLP, and the development of word vectors and sentence-image mapping models.
-4. The founding of MetaMind, aiming to simplify training neural networks for organizations, and its acquisition by Salesforce.
-5. The creation of the AI Economist to explore taxation and subsidy effects on economy and equality.
-6. The inception of prompt engineering and the vision for a single model for all of NLP.
-7. The foundation of You.com and AX Ventures, focusing on changing search with AI and creating a more AI-forward search engine.
-8. The challenge of competing with Google and the need for a general-purpose AI platform that speaks to customer use cases.
-9. The evolution of You.com to incorporate LMs into search, emphasizing user adaptation to AI-enhanced search experiences.
-10. Innovations at You.com, including multimodal search capabilities and programming execution within search.
-11. The competitive landscape in AI and search, and the potential for AI to assist in complex queries and learning.
-12. The importance of ethical considerations in AI development, particularly in content restriction and security.
+   Richard Socher's background in linguistic computer science and his early interest in combining math and languages.
+   His academic journey, including studies at the Max Planck Institute and Stanford, where he encountered deep learning.
+   The shift from feature engineering to learning in NLP, and the development of word vectors and sentence-image mapping models.
+   The founding of MetaMind, aiming to simplify training neural networks for organizations, and its acquisition by Salesforce.
+   The creation of the AI Economist to explore taxation and subsidy effects on economy and equality.
+   The inception of prompt engineering and the vision for a single model for all of NLP.
+   The foundation of You.com and AX Ventures, focusing on changing search with AI and creating a more AI-forward search engine.
+   The challenge of competing with Google and the need for a general-purpose AI platform that speaks to customer use cases.
+   The evolution of You.com to incorporate LMs into search, emphasizing user adaptation to AI-enhanced search experiences.
+   Innovations at You.com, including multimodal search capabilities and programming execution within search.
+   The competitive landscape in AI and search, and the potential for AI to assist in complex queries and learning.
+   The importance of ethical considerations in AI development, particularly in content restriction and security.
 
 In summary, the talk delves into the transformative potential of AI across various domains, emphasizing the importance of innovation, ethical use, and the ongoing evolution of search engines to better meet user needs. Socher's journey underscores the rapid advancements in AI and the critical role of pioneering research and application in shaping the future of technology.
 
@@ -107,11 +107,11 @@ In summary, the talk delves into the transformative potential of AI across vario
 
  The transcript delves into the significant strides made in the domain of artificial intelligence (AI) and machine learning (ML), particularly focusing on the development of neural networks, deep learning techniques, and their applications across various fields. Here are the key points extracted from the discussion:
 
-1. **Evolution of Neural Networks**: The transcript outlines the historical development of neural networks, from their conceptual beginnings to their modern implementations in deep learning.
-2. **Deep Learning Breakthroughs**: It discusses key breakthroughs in deep learning, including advancements in algorithm efficiency and the ability to process vast amounts of data.
-3. **Applications Across Fields**: The text highlights the wide-ranging applications of AI and ML, from healthcare and autonomous vehicles to natural language processing and image recognition.
-4. **Challenges and Solutions**: The conversation also touches upon the challenges faced in the AI field, such as data bias and ethical considerations, and potential solutions.
-5. **Future Directions**: Lastly, it speculates on future trends in AI research and development, emphasizing the importance of interdisciplinary collaboration and innovation.
+ **Evolution of Neural Networks**: The transcript outlines the historical development of neural networks, from their conceptual beginnings to their modern implementations in deep learning.
+ **Deep Learning Breakthroughs**: It discusses key breakthroughs in deep learning, including advancements in algorithm efficiency and the ability to process vast amounts of data.
+ **Applications Across Fields**: The text highlights the wide-ranging applications of AI and ML, from healthcare and autonomous vehicles to natural language processing and image recognition.
+ **Challenges and Solutions**: The conversation also touches upon the challenges faced in the AI field, such as data bias and ethical considerations, and potential solutions.
+ **Future Directions**: Lastly, it speculates on future trends in AI research and development, emphasizing the importance of interdisciplinary collaboration and innovation.
 
 The discussion identifies five major ideas related to intelligence in living beings as follows: 
 
