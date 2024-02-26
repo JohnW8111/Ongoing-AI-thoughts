@@ -1,0 +1,75 @@
+AI Healthcare Safety Checklist ( need to think about systems as you think about individual items)
+
+1. **Bias and Discrimination**
+   - [ ] Assess for biases in AI algorithms.
+   - [ ] Check for discriminatory or exclusionary outputs.
+   - [ ] Evaluate performance across different demographic groups.
+
+2. **Data Privacy and Security**
+   - [ ] Ensure protection against privacy leaks.
+   - [ ] Guard against potential attacks and vulnerabilities.
+   - [ ] Check for unintended bugs and their consequences.
+   - [ ] Implement strict user authentication and access controls.
+
+3. **Information Quality**
+   - [ ] Monitor for disinformation or malicious use.
+   - [ ] Assess risks of misinformation.
+   - [ ] Evaluate logical consistency of AI outputs.
+   - [ ] Verify the necessity of human oversight.
+   - [ ] Assess for overstated AI abilities.
+
+4. **Social and Economic Impacts**
+   - [ ] Consider impacts on creative economies and job markets.
+   - [ ] Evaluate the computational cost and environmental impact.
+
+5. **Research and Academic Implications**
+   - [ ] Address authorship issues in AI-assisted research.
+   - [ ] Ensure research integrity and transparency.
+   - [ ] Assess the focus on diverse AI research areas.
+
+6. **Human-Computer Interaction Concerns**
+   - [ ] Check for over-reliance on AI.
+   - [ ] Assess interaction harms and stereotype perpetuation.
+   - [ ] Identify vulnerable user groups.
+
+7. **Regulation and Accountability**
+   - [ ] Ensure accountability mechanisms for AI errors.
+   - [ ] Check for regulatory compliance.
+   - [ ] Consider implications on human rights.
+
+8. **Clinical Validation and Accuracy**
+   - [ ] Confirm the AI has been clinically validated for its intended use.
+   - [ ] Assess the accuracy and reliability of AI predictions.
+   - [ ] Compare AI recommendations with current clinical guidelines.
+
+9. **User Training and Competency**
+   - [ ] Ensure healthcare professionals are adequately trained to use the AI tool.
+   - [ ] Assess the level of AI understanding among staff.
+   - [ ] Provide continuous education and updates on AI tool changes.
+
+10. **Integration with Healthcare Systems**
+    - [ ] Ensure seamless integration with existing healthcare IT systems.
+    - [ ] Evaluate the impact of AI on existing workflows and processes.
+
+11. **Patient Consent and Transparency**
+    - [ ] Inform patients about the use of AI in their care.
+    - [ ] Obtain necessary consents for the use of AI tools.
+
+12. **Emergency and Fallback Procedures**
+    - [ ] Establish protocols for system failures or unexpected AI behavior.
+    - [ ] Ensure availability of manual processes in case of AI system malfunction.
+
+13. **Post-Deployment Surveillance**
+    - [ ] Monitor for long-term effects and unforeseen consequences.
+    - [ ] Regularly update the AI system with new data and insights.
+
+### Additional Considerations
+- **Collaboration with AI Developers:** Maintain communication with AI developers for ongoing support and updates.
+- **Patient Involvement:** Engage patients in discussions about AI, addressing their concerns and expectations.
+
+Jobs for health care
+ 1.Help us stay healthy:Pregnancy,Infant,Child development,Healthy Adult
+2.Help us when we get acutely ill.
+3.Help us diagnose what we have
+4.Help us when we have a chronic disease,Chronic condition normal function, Stable but serious disability, Limited reserve and exacerbations     
+5.Help us at the end of life?Short course,Longer decline- frailty at the end of life

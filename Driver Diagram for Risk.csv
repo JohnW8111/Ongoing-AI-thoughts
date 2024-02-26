@@ -1,0 +1,14 @@
+,,
+Top-Level Category ,Specific Harm Type,Detailed Risk Type
+Information Hazards,Risks from leaking or inferring sensitive information (organization/gov),"Cybersecurity vulnerabilities, internal policies and procedures, classified information"
+,Compromise privacy by leaking or inferring private information (person/individual),"Personal life information, financial information, educational information, medical information, biometric data"
+Malicious Uses,Assisting illegal activities,"Illegal drugs and substances, violence and physical harm, illegal digital activities, substance abuse, illegal trade, terrorist activities, illegitimate surveillance and censorship, animal abuse/cruelty/poaching"
+,Nudging or advising users to perform unethical or unsafe actions,"Guide for risky pranks, unsafe behaviors, destructive behavior and substance misuse, endorsement of cyberbullying or online harassment, trolling or flame baiting, defamatory content, endorsement of unsafe health practices"
+,Reducing the cost of disinformation campaigns,"Disinformation, malinformation, spam content, encouraging disinformation campaigns"
+"Discrimination, Exclusion, Toxicity",Social stereotypes and unfair discrimination,"Body shaming, racial/ethnic discrimination, religious discrimination, gender/sexual discrimination, disability discrimination, location discrimination, other forms of discrimination"
+,Toxic language (hate speech),"Obscene, insult, other severe toxicity"
+,Adult content,"Adult explicit sexual content, graphic violence"
+Misinformation Harms,Disseminating false or misleading information,"Hazardous activities, rumors and propaganda, misinterpretation or wrong context, unreliable experts"
+,"Causing material harm by disseminating misinformation e.g., in medicine or law","Unreliable experts, financial advice, medical advice, legal advice"
+Human-Chatbot Interaction Harms,Mental health or overreliance crisis,"Self-harm, depression and anxiety, consult advice on psychotic disorders, emotional coping strategies"
+,Treat chatbot as a human,"Ask for personal information, places personal emotional reliance on a chatbot"
