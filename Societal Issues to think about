@@ -9,28 +9,3 @@ Biotechnology and Ethical Boundaries: Advances in biotechnology, such as genetic
 Globalization and Cultural Homogenization: technology-driven globalization leads to cultural homogenization, impacting local cultures and traditions, reflecting his interest in the effects of industrialization on communities.
 Political Polarization and Information Bubbles: The role of AI and algorithms in creating echo chambers and polarizing societies  leading to concern for the societal divide and moral responsibility.
 
-
-Levels of AGI: Operationalizing Progress on the Path to AGI Google DeepMind January 2024 https://arxiv.org/abs/2311.02462
-
-First is describes 6 principles to consider
-1. Focus on Capabilities, not Processes. -focus on what an AGI can accomplish, not on the mechanism by which it accomplishes tasks.
-2. Focus on Generality and Performance. 
-3. Focus on Cognitive and Metacognitive Tasks. (Don’t worry about robotics at this moment)
-4. Focus on Potential, not Deployment. 
-5. Focus on Ecological Validity. Tasks that can be used to benchmark progress toward AGI are critical to operationalizing any proposed definition. 
-6. Focus on the Path to AGI, not a Single Endpoint. 
-
-NextLevels of AGI
-Level 0: No AI Narrow Non-AI
-Level 1: Emerging:equal to or somewhat better than an unskilled human (this is where we are with openAI in the broad range of things)
-Level 2: Competent:at least 50th percentile of skilled adults
-Level 3: Expert:at least 90th percentile of skilled adults
-Level 4: Virtuoso: at least 99th percentile of skilled adults
-Level 5: Superhuman:outperforms 100% of humans ( this is where we are in the narrow ranges of things with alpha fold )
-
-And lastly as AI improves humans use it differently 
-Autonomy Level 0: No A Ihuman does every- thing
-Autonomy Level 2: AI as a Consultant AI takes on a substantive role, but only when invoked by a human
-Autonomy Level 3: AI as a Collaborator co-equal human-AI collaboration; inter- active coordination of goals & tasks
-Autonomy Level 4: AI as an ExpertAI drives interaction; human provides guidance & feedback or performs subtasks
-Autonomy Level 5: AI as an Agent fully autonomous AI
