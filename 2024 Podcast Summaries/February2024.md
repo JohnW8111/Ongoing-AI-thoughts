@@ -318,4 +318,21 @@ Here are some of the most important items from the document:
 - He provides recommendations: conduct techno-economic assessments comparing the US to China/Russia on AI; accelerate DoD digital modernization; make bigger AI investments; integrate AI into programs-of-record early; prioritize solving combatant commands' problems; strengthen government-industry-academia cooperation; workforce development; consider organizational redesign; optimize human-machine teaming; accept more risk; assure AI through testing and responsible AI principles; and pursue AI dialogues between the US and China.
 - He is optimistic about US leadership in AI for national security but says there are no shortcuts. Sustained commitment is essential despite inevitable frustrations.
 
+  15 CogRev Is AGI Far? With Robin Hanson, Economist at George Mason University  https://www.youtube.com/watch?v=YzTEdOjiK0c
+  Summary of main point from Cog Rev today. My takeaway is pay attention to the economic changes that happen in society particularly replacement of jobs. You have already said something along those lines. Here is the summary "Robin is skeptical about claims that AI capabilities are advancing rapidly. History shows AI progress tends to be overhyped during new breakthroughs. 
+Nathan argues recent models have hit meaningful thresholds, like few-shot learning and expertise exceeding human doctors in medical diagnosis. This could drive major economic impacts.
+Robin counters that legal and regulatory barriers have historically limited practical applications of AI, like in medicine. People fear powerful technologies.
+Nathan believes the consumer desire for AI applications will override restrictive policies. Robin thinks this underestimates public wariness.  
+Robin now envisions centuries of innovation stagnation before emulation, due to declining population growth rates. So key thresholds may arrive slower than Nathan expects.
+They agree on the importance of sober, realistic analyses focused on capabilities over values and hype. But they differ on interpreting the trajectory and implications of recent AI progress.
+Here are the key points I gathered from the text:
+There has been ongoing discussion and concern about AI and automation replacing human jobs for decades, going back to the 1960s. However, we have not seen the rapid, massive displacement of human workers that some predicted. 
+Current AI systems like large language models are impressive in certain narrow capabilities, but still far from general human intelligence. They cannot yet perform the full range of tasks humans do in most jobs.
+There has been exciting progress recently in some AI abilities like image generation, but these still only impact a small fraction of the overall economy and workforce. 
+Studies looking at actual automation rates across the economy over the past 20 years show steady, gradual increases, not a sudden revolution. Most jobs are still not highly automated.
+Predictions of rapid AI progress are often based on demos of the most advanced abilities, not widespread adoption. There are still limitations like brittleness and difficulty adapting systems to new contexts.
+Issues like system deterioration ("rot") over time may limit the ability of AI systems to expand capabilities indefinitely without starting fresh. There are still challenges merging and building on existing systems.
+Increased productivity from AI assisting humans seems more likely than rapid replacement. There will be opportunities to adapt processes to take advantage of AI strengths. Impact on wages and employment levels remains uncertain.
+It is wise to monitor leading areas of AI progress and identify new opportunities. But we should not assume revolution is imminent or AI will quickly surpass humans across all abilities. Gradual, uneven progress seems more likely based on history."
+
 
