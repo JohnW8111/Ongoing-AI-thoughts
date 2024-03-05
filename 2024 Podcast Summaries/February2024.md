@@ -1,3 +1,39 @@
+Monthly summary of topics
+1. **LearnPrompting.org Interview with Sander Schulhoff**: Focuses on the evolution and impact of prompt engineering in AI, detailing strategies, community engagement, and the significance of prompt hacking research.
+
+2. **Latent Space - Retool Survey**: Explores AI adoption trends, highlighting engineers' reliance on AI tools like Copilot and ChatGPT, and the shift towards AI in software development.
+
+3. **Cognitive Revolution Podcast with Yohi Nakajima**: Discusses the integration of AI in understanding identity and culture, emphasizing the use of AI for creating knowledge graphs and enhancing web research.
+
+4. **Weights & Biases with Richard Socher**: Chronicles Socher's journey in AI, discussing the transformative potential of AI in search engines and healthcare, and the inception of You.com.
+
+5. **Biological and Artificial Intelligence Discussion**: Delves into the evolution of neural networks and AI applications across various fields, underscoring the parallel development of biological and artificial intelligence.
+
+6. **Embodied Minds and Cognitive Agents with Dr. Michael Levin**: Explores the intersection of biology and AI, focusing on the cognitive capabilities of simple biological systems and the ethical implications of AI development.
+
+7. **Together.AI Founders on Open AI**: Highlights Together.AI's journey in creating an open AI platform, emphasizing open-source development, decentralization, and innovative model training approaches.
+
+8. **Practical AI on LLMs**: Discusses the impact of Large Language Models on AI applications, stressing prompt management, collaborative development, and Humanloop's role in prompt evaluation.
+
+9. **Practical AI on Large Action Models**: Examines AI-driven personal devices and privacy concerns, exploring the balance between convenience and user data control.
+
+10. **Nous Research on Synthetic Data for AI**: Explores Nous Research's contributions to AI through synthetic data and open-source projects, emphasizing community collaboration and model development.
+
+11. **OpenAI, Google, and Meta Discussion**: Reviews the advancements and safety concerns of next-generation language models, discussing the ethical and technical challenges in AI development.
+
+12. **The AI Exponential with Azeem Azhar**: Reflects on the exponential growth of AI and its implications for society, emphasizing the need for new governance mechanisms and the potential for AI-driven economic shifts.
+
+13. **Serverless Infrastructure for AI Engineers**: Discusses Modal's approach to improving infrastructure for AI projects, focusing on developer productivity and scaling custom models.
+
+14. **AI in National Security**: Shares insights on the application and integration of AI technologies within the US Department of Defense, highlighting the shift towards software-defined warfare and AI's role in military strategies.
+
+15. **Is AGI Far? With Robin Hanson**: Debates the pace of AI progress and its societal impacts, focusing on economic changes, job replacement, and the realistic trajectory of AI development.
+
+16. **Open Source AI Hacker with Ben Firshman**: Chronicles the development of Replicate and the role of community in advancing AI technologies, emphasizing open-source contributions and innovation in machine learning deployment.
+
+17. **AI's Future in Healthcare with John Halamka**: Explores AI's role in healthcare, from early disease detection to ethical considerations in data usage, stressing collaboration and innovation for improving patient outcomes.
+
+
 1.GogRev Ignore Previous Instructions & Listen to This Interview | Sander Schulhoff, CEO, LearnPrompting.org https://learnprompting.org/
 https://www.youtube.com/watch?v=W-WyN4Gis_Y
 https://arxiv.org/abs/2311.16119
