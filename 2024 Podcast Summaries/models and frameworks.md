@@ -8,4 +8,8 @@ Lanier acknowledges the economic value of A.I., highlighting its ability to leve
 
 In essence, Lanier calls for a shift in how we conceptualize and discuss A.I., moving away from anthropomorphic and apocalyptic narratives towards viewing it as a collaborative tool that enhances human efforts. This approach not only demystifies A.I. but also encourages a more pragmatic and nuanced appreciation of its potential and limitations.
 
+This comes from Latent space
 2.![a2939ccc-6eca-4c75-9b29-48d3d391c625_1920x832](https://github.com/JohnW8111/Ongoing-AI-thoughts/assets/134446602/0ffd4375-3591-44f9-bcab-239c808c7e00)
+
+This comes from Latent space
+<img width="1189" alt="LatentSpace 5 worthwhild directions" src="https://github.com/JohnW8111/Ongoing-AI-thoughts/assets/134446602/99c90111-1654-4b17-b867-fe75ceab22c9">
