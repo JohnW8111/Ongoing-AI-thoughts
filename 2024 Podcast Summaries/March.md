@@ -285,7 +285,7 @@ The podcast offers an insightful exploration of the transformative impact of AI,
 - The episode features Clara Shih, CEO of Salesforce AI, discussing her career, the role of AI in Salesforce, and her perspectives on the future of AI in the industry.
 - Clara has a background in founding hearsay systems and is involved in AI's application in customer relations and service.
 
-**10 Key Points:**
+** Key Points:**
 1. **Salesforce AI's Role:** Salesforce has been incorporating AI for nearly a decade, focusing on both research and applied AI across its products to enhance predictive capabilities.
 2. **Centralized AI Team:** Clara's role involves unifying AI efforts across Salesforce to avoid redundancy and ensure a cohesive AI strategy, benefitting both Salesforce's applications and its partners.
 3. **Evolution of AI in Customer Service:** The pandemic highlighted the need for AI in customer service, leading to a 700% adoption increase in Salesforce's AI tools, like chatbots and AI assist, to handle increased demand and reduce service response times.
