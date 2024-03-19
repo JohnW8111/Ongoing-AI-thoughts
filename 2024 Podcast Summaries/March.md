@@ -278,3 +278,25 @@ The podcast focuses on the evolution, current state, and future implications of 
 
 ### Summary:
 The podcast offers an insightful exploration of the transformative impact of AI, particularly through the lens of LLMs and Transformer architectures. Aiden Gomez's contributions to the field and his reflections on the future directions of AI technology highlight the potential for further innovation and integration into business and society. The discussion underscores the importance of ethical considerations, the augmentative role of AI in the workforce, and the ongoing need for innovation and adoption strategies in the enterprise sector.
+
+### 13 Gradient Dissen Transforming Data into Business Solutions with Salesforce AI CEO, Clara Shih https://www.youtube.com/watch?v=lfY58MabtYg&list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_
+
+**Introduction:**
+- The episode features Clara Shih, CEO of Salesforce AI, discussing her career, the role of AI in Salesforce, and her perspectives on the future of AI in the industry.
+- Clara has a background in founding hearsay systems and is involved in AI's application in customer relations and service.
+
+**10 Key Points:**
+1. **Salesforce AI's Role:** Salesforce has been incorporating AI for nearly a decade, focusing on both research and applied AI across its products to enhance predictive capabilities.
+2. **Centralized AI Team:** Clara's role involves unifying AI efforts across Salesforce to avoid redundancy and ensure a cohesive AI strategy, benefitting both Salesforce's applications and its partners.
+3. **Evolution of AI in Customer Service:** The pandemic highlighted the need for AI in customer service, leading to a 700% adoption increase in Salesforce's AI tools, like chatbots and AI assist, to handle increased demand and reduce service response times.
+4. **Use of AI in hearsay systems:** Clara's work at hearsay systems involved using AI for NLP to mine social media for client engagement insights, demonstrating early use of AI in customer relations.
+5. **Adoption of Generative AI:** Salesforce is integrating generative AI to improve chatbot responses, showing a commitment to evolving AI technology to meet customer service needs.
+6. **Open Architecture for AI Models:** Salesforce supports a mix of its own AI models and third-party models from major AI research companies, offering flexibility to customers.
+7. **Customer-Centric AI Applications:** Salesforce has launched AI features like sales GPT for account summarization and marketing Cloud for email subject line generation, tailored to specific business needs.
+8. **AI for Personalized Customer Interaction:** Salesforce's AI enables personalized customer interactions, allowing businesses to leverage AI for efficient and effective communication.
+9. **Einstein Trust Layer:** Salesforce emphasizes trust in AI, developing features for data protection, toxicity filters, and audit trails to ensure AI's responsible use.
+10. **Future of AI in Business:** Clara envisions AI will continue to evolve, emphasizing the importance of trust, data privacy, and the ability to adapt to new AI technologies for successful implementation in business operations.
+
+**Conclusion:**
+- Clara Shih discusses the significant impact of AI on customer relationship management and the importance of an integrated, trust-focused approach to AI within Salesforce and the wider industry.
+- The conversation highlights the ongoing evolution of AI in business applications, underscoring the potential for AI to transform customer service, sales, and marketing strategies.
