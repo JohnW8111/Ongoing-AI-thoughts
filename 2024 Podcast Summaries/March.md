@@ -279,7 +279,7 @@ The podcast focuses on the evolution, current state, and future implications of 
 ### Summary:
 The podcast offers an insightful exploration of the transformative impact of AI, particularly through the lens of LLMs and Transformer architectures. Aiden Gomez's contributions to the field and his reflections on the future directions of AI technology highlight the potential for further innovation and integration into business and society. The discussion underscores the importance of ethical considerations, the augmentative role of AI in the workforce, and the ongoing need for innovation and adoption strategies in the enterprise sector.
 
-### 13 Gradient Dissen Transforming Data into Business Solutions with Salesforce AI CEO, Clara Shih https://www.youtube.com/watch?v=lfY58MabtYg&list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_
+### 13 Gradient Dissent Transforming Data into Business Solutions with Salesforce AI CEO, Clara Shih https://www.youtube.com/watch?v=lfY58MabtYg&list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_
 
 **Introduction:**
 - The episode features Clara Shih, CEO of Salesforce AI, discussing her career, the role of AI in Salesforce, and her perspectives on the future of AI in the industry.
@@ -300,3 +300,22 @@ The podcast offers an insightful exploration of the transformative impact of AI,
 **Conclusion:**
 - Clara Shih discusses the significant impact of AI on customer relationship management and the importance of an integrated, trust-focused approach to AI within Salesforce and the wider industry.
 - The conversation highlights the ongoing evolution of AI in business applications, underscoring the potential for AI to transform customer service, sales, and marketing strategies.
+
+### 14 How to unleash the power of AI, with Ethan Mollick  https://www.youtube.com/watch?app=desktop&v=QXUHkjX9XfI
+In an engaging conversation on the Exponential View podcast, Azeem Azhar and Professor Ethan Mollick delve into the transformative potential and limitations of AI technologies like ChatGPT. Their discussion, rich in insights and forward-looking perspectives, explores how these technologies are reshaping the landscape of work, creativity, and entrepreneurial endeavors. Here's a summary encapsulating the main ideas they discussed:
+
+- **Integration of AI in Daily Work**: Both Azeem and Ethan share their experiences with AI tools, emphasizing how these technologies have become integral to their daily tasks, enhancing productivity and sparking creativity.
+
+- **The Role of AI in Writing and Creativity**: Ethan credits AI with making the writing process for his book "Co-Intelligence" smoother and more efficient. He highlights how AI can unstick writers by providing different sentence constructions and assisting in data analysis and idea generation.
+
+- **Evolution and Impact of AI Technologies**: The conversation touches on the rapid evolution of AI models and their potential to significantly impact various sectors. Despite uncertainties about the future capabilities and directions of AI, its current applications already demonstrate substantial benefits in enhancing human work.
+
+- **Personalization and Interaction with AI**: They discuss the personalized ways in which they interact with different AI tools, noting the unique "personalities" of AI systems like ChatGPT, Bing, and others. This personalization enhances the user experience and effectiveness of AI interactions.
+
+- **Addressing AI Limitations**: The dialogue acknowledges the limitations and challenges of current AI models, including issues related to factuality and confabulation. However, both speakers are optimistic about future improvements and the ongoing development of more sophisticated and reliable AI systems.
+
+- **Implications for Entrepreneurship and the Workforce**: Ethan suggests that AI has the potential to supercharge entrepreneurship by acting as a versatile tool that complements human skills and fills in gaps in expertise. He also advocates for a cautious approach to integrating AI in workplaces, emphasizing the importance of keeping teams adaptable and ready for the evolving AI landscape.
+
+- **Navigating the Uncertain Future of AI**: The conversation concludes on a note of cautious optimism. Both Azeem and Ethan highlight the importance of staying flexible, continuously experimenting with AI, and preparing for a future where AI's capabilities and applications could dramatically transform society and the economy.
+
+This discussion between Azeem Azhar and Ethan Mollick offers a compelling glimpse into the current state and future possibilities of AI, encouraging listeners to embrace these technologies mindfully and creatively to harness their full potential.
