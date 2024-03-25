@@ -329,3 +329,29 @@ The concept of the "ladder of abstraction" is introduced, illustrating how diffe
 The talk further delves into practical applications of AI in organizing and analyzing information, using a hypothetical scenario of finding accommodation through Airbnb as an example. The speaker imagines a tool that abstracts and highlights key information (like distance to a venue, Wi-Fi speed, and price) across multiple listings to aid decision-making. This concept extends to comparing numerous listings simultaneously, emphasizing the potential of AI to streamline and enhance decision-making processes by providing summarized, actionable insights.
 
 In summary, the video advocates for the use of AI to augment human tasks by automating the tedious parts and enabling humans to operate at the most relevant level of abstraction. This approach could revolutionize how we interact with information, making complex decision-making more efficient and accessible.
+
+### 16 Latent Space Podcast https://www.latent.space/p/adept Why Google failed to make GPT-3 + why Multimodal Agents are the path to AGI — with David Luan of Adept
+The Latent Space Podcast episode featuring David Luan, CEO and co-founder of Adept, offers a deep dive into the evolution and future direction of AI research and its practical applications. David's journey from founding a college startup to his pivotal roles at Axon, OpenAI, Google, and finally Adept, provides unique insights into the AI industry's challenges and opportunities. Here are the key points from the discussion:
+
+1. **Early Career and OpenAI Experience**: David Luan's early involvement with AI, from founding Dextro to his significant role at OpenAI, underscores the importance of early-stage innovation and the foundational work in AI research.
+
+2. **Shifts in AI Research Paradigms**: Luan highlights the transition in AI research from individual contributions to large-scale, collaborative projects, stressing the impact of big data and advanced computational power on the field's evolution.
+
+3. **The Role of Agents in AI**: The podcast discusses the pivotal role of AI agents, emphasizing their importance in advancing towards more general and adaptable AI systems.
+
+4. **Defining AGI**: Luan provides a nuanced view of AGI, focusing on the potential of AI to augment human capabilities rather than replace them, and highlights the need for AI systems that can perform a broad range of tasks.
+
+5. **Adept's Mission and Approach**: Adept aims to create AI agents capable of assisting with virtually any task on a computer, illustrating the ambition to significantly enhance productivity and decision-making through AI.
+
+6. **Enterprise Focus of Adept**: Unlike many AI startups, Adept focuses on providing enterprise solutions, emphasizing the importance of reliability and direct application to business workflows.
+
+7. **The Importance of Reliable AI**: Luan discusses the critical need for AI systems to achieve high levels of reliability, especially in enterprise settings, to ensure practical and effective application.
+
+8. **Evolution of AI Interaction**: The podcast touches on the evolution of human-AI interaction, from direct commands to more nuanced, goal-oriented tasks that agents can understand and execute.
+
+9. **Agent-Driven Future of Software**: The discussion envisions a future where AI agents play a central role in interfacing with software, potentially transforming how tasks are performed and services are delivered.
+
+10. **Collaboration with NVIDIA**: Luan appreciates the collaboration with NVIDIA, highlighting the symbiotic relationship between AI research and hardware development, which is crucial for advancing AI capabilities.
+
+**Summary**:
+The conversation with David Luan provides valuable insights into the current state and future prospects of AI research and application. From foundational contributions at OpenAI to pioneering work at Adept, Luan's experiences underscore the importance of collaborative efforts, the potential of AI agents to transform productivity, and the ongoing need for reliability and applicability in AI solutions. The podcast emphasizes a forward-looking perspective on AI, focusing on augmenting human abilities and reshaping interactions with technology through intelligent agents.
