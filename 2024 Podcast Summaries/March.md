@@ -355,3 +355,34 @@ The Latent Space Podcast episode featuring David Luan, CEO and co-founder of Ade
 
 **Summary**:
 The conversation with David Luan provides valuable insights into the current state and future prospects of AI research and application. From foundational contributions at OpenAI to pioneering work at Adept, Luan's experiences underscore the importance of collaborative efforts, the potential of AI agents to transform productivity, and the ongoing need for reliability and applicability in AI solutions. The podcast emphasizes a forward-looking perspective on AI, focusing on augmenting human abilities and reshaping interactions with technology through intelligent agents.
+
+
+### 17 Cognitive Revolution Interfacing with AI, with Linus Lee of Notion https://www.youtube.com/watch?v=wdmvtVTZDqE
+
+### Introduction
+The podcast episode under review features an in-depth discussion with Lonus Lee, an AI product leader at Notion and an AI explorer. The conversation spans a broad range of topics within the artificial intelligence space, particularly focusing on the development of novel interfaces for AI, the exploration of generative models, and the philosophical implications of AI technology. This summary distills the core ideas and insights from the discussion, aiming to provide a comprehensive overview of the conversation's most significant points.
+
+### Key Points
+
+1. **The Development of Novel Interfaces for AI**: Lee discusses his work on creating interfaces that allow users to manipulate generative models in their latent space rather than through direct input manipulation. This approach aims to edit or generate content (text or images) based on semantic properties, offering a more intuitive way to interact with AI models.
+
+2. **Exploration of Generative Models**: A significant portion of the conversation revolves around Lee's exploration of generative models, particularly in visualizing and controlling these models in their latent space. He shares insights on combining images and text in semantic spaces to produce novel outputs, highlighting the creative potential of such techniques.
+
+3. **Semantic Editing of Text and Images**: Lee has been pioneering in developing techniques for semantically editing text and images. He elaborates on how these methods could enable users to generate content by specifying desired attributes semantically, enhancing the flexibility and expressiveness of content creation.
+
+4. **Toolkit and Rapid Experimentation**: Lee shares his toolkit, which includes PyTorch and custom tools he's developed over time for data visualization, model evaluation, and rapid experimentation. His approach emphasizes the importance of direct interaction with raw data and models to foster a deep understanding of the problems being addressed.
+
+5. **Importance of Failure Cases**: An interesting aspect of Lee's methodology is his focus on spending time with failure cases and raw data. This approach helps in identifying and understanding the limitations and biases of AI models, which is crucial for developing more robust and reliable systems.
+
+6. **Current Capabilities and Opportunities for Improvement in Language Models**: Lee provides his perspective on the current state of language models, pointing out areas such as hallucination reduction, better instruction following, and cost efficiency as opportunities for significant improvement.
+
+7. **Speculation on the Future of AI Models**: The conversation delves into speculative future scenarios involving models communicating via high-dimensional embeddings, connecting latent spaces across modalities, and the societal implications of advancing AI capabilities.
+
+8. **Human-Centric Approach to AI Development**: A key theme in the discussion is the emphasis on developing AI technologies that amplify rather than replace human intelligence. Lee articulates a vision centered on enhancing human creativity and agency through AI.
+
+9. **The Role of Tools in AI Exploration**: Lee underscores the importance of building and refining tools for exploring AI systems. His approach involves creating interfaces and methods that allow for a deeper engagement with AI models, thereby contributing to the broader understanding of AI's potential and limitations.
+
+10. **Collaboration and Sharing in the AI Community**: Despite the highly personalized nature of his exploration toolkit, Lee acknowledges the importance of collaboration and knowledge sharing within the AI community. He suggests that while certain aspects of his work are uniquely tailored to his methods, there are opportunities to generalize and share tools and insights that can benefit others in the field.
+
+### Summary
+The podcast episode with Lonus Lee offers a rich exploration of the frontiers of artificial intelligence, particularly in the realm of generative models and novel AI interfaces. Lee's work exemplifies a creative and experimental approach to AI, aiming to push the boundaries of what is possible with current technologies. By focusing on semantic manipulation, rapid experimentation, and a human-centric approach to AI development, Lee contributes valuable insights and methodologies to the AI community. His vision for the future of AI is one that enhances human capabilities and creativity, emphasizing the importance of developing AI in a way that is aligned with human values and needs.
