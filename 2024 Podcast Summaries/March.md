@@ -319,3 +319,13 @@ In an engaging conversation on the Exponential View podcast, Azeem Azhar and Pro
 - **Navigating the Uncertain Future of AI**: The conversation concludes on a note of cautious optimism. Both Azeem and Ethan highlight the importance of staying flexible, continuously experimenting with AI, and preparing for a future where AI's capabilities and applications could dramatically transform society and the economy.
 
 This discussion between Azeem Azhar and Ethan Mollick offers a compelling glimpse into the current state and future possibilities of AI, encouraging listeners to embrace these technologies mindfully and creatively to harness their full potential.
+
+### 15 Climbing the Ladder of Abstraction: Amelia Wattenberger https://www.youtube.com/watch?v=PAy_GHUAICw
+
+The video discusses the evolution of accounting practices from the early 1900s, highlighting the introduction of VisiCalc in 1979 as a game-changing spreadsheet tool for accountants. This innovation is used as a springboard to discuss the broader application of AI in augmenting human abilities rather than just automating tasks. The speaker emphasizes that augmentation involves automating tedious parts of tasks to allow humans to focus on more significant aspects, likening it to how calculators and spreadsheets have transformed accounting.
+
+The concept of the "ladder of abstraction" is introduced, illustrating how different levels of detail can represent the same object, with maps as a prime example. The speaker proposes that AI can apply this concept to various interfaces, including books, to enhance reading and writing by providing summaries at different levels of detail. The idea is that AI can help navigate through information at the appropriate level of abstraction for the task at hand, making tasks like editing or understanding complex data more manageable.
+
+The talk further delves into practical applications of AI in organizing and analyzing information, using a hypothetical scenario of finding accommodation through Airbnb as an example. The speaker imagines a tool that abstracts and highlights key information (like distance to a venue, Wi-Fi speed, and price) across multiple listings to aid decision-making. This concept extends to comparing numerous listings simultaneously, emphasizing the potential of AI to streamline and enhance decision-making processes by providing summarized, actionable insights.
+
+In summary, the video advocates for the use of AI to augment human tasks by automating the tedious parts and enabling humans to operate at the most relevant level of abstraction. This approach could revolutionize how we interact with information, making complex decision-making more efficient and accessible.
