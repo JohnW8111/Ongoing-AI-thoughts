@@ -32,7 +32,7 @@ The Draft Code of Conduct Framework represents a significant effort to address t
 ### 2 Latent Space a selection of talks when they were on other shows
 Based on the transcript from the "Latent Space Podcast Weekend Edition," hosted by Charlie the AI co-host, here is a detailed summary encapsulating the major points discussed:
 
-## Key Points
+# Key Points
 
 1. **4Wars Framework:** The framework identifies four critical battlegrounds in the AI sector: Data Wars, GPU Rich-Poor War, Multimodal War, and RAG and Ops War. This model helps in understanding the dynamics and competition in the AI industry.
    
@@ -56,7 +56,7 @@ Based on the transcript from the "Latent Space Podcast Weekend Edition," hosted 
 Here is more detail about future trends
 The discussion on future AI trends within the "Latent Space Podcast Weekend Edition" transcript not only delves into current advancements but also projects intriguing prospects for the AI industry. Here are expanded insights based on the podcast's coverage and general industry observations:
 
-## Expanded Future AI Trends
+# Expanded Future AI Trends
 
 1. **Beyond Quadratic Transformers:** The exploration of non-quadratic transformer models like RWKV and state space models (e.g., Mamba) suggests a significant shift towards more efficient architectures. These models promise to handle vastly larger contexts or datasets without the computational cost scaling quadratically, potentially revolutionizing AI's applicability in data-intensive fields like genomics or real-time video processing.
 
