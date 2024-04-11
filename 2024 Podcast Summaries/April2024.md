@@ -78,9 +78,7 @@ The discussion on future AI trends within the "Latent Space Podcast Weekend Edit
 
 10. **Quantum AI Integration:** Although still in its infancy, the intersection of quantum computing and AI holds the promise of solving complex problems beyond the reach of current technologies. Future advancements in quantum computing could exponentially increase AI's problem-solving capabilities, particularly in fields like materials science, pharmaceuticals, and complex system simulations.
 
-### Latent Space: Presenting the AI Engineer World's Fair — with Sam Schillace, Deputy CTO of Microsoft
-
-
+### 3 Latent Space: Presenting the AI Engineer World's Fair — with Sam Schillace, Deputy CTO of Microsoft
 
 ### Main Ideas
 
