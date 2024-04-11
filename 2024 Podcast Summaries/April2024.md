@@ -78,4 +78,30 @@ The discussion on future AI trends within the "Latent Space Podcast Weekend Edit
 
 10. **Quantum AI Integration:** Although still in its infancy, the intersection of quantum computing and AI holds the promise of solving complex problems beyond the reach of current technologies. Future advancements in quantum computing could exponentially increase AI's problem-solving capabilities, particularly in fields like materials science, pharmaceuticals, and complex system simulations.
 
+### Latent Space: Presenting the AI Engineer World's Fair — with Sam Schillace, Deputy CTO of Microsoft
+
+
+
+### Main Ideas
+
+1. **Origin of AI Engineer Summit**: The summit was conceptualized to give a name and space to the AI engineering movement, recognizing the shift from AI being a purely research-oriented domain to one with practical, engineering applications.
+
+2. **Success of the AI Engineer Summit**: With over 9,000 online attendees and 400 in-person participants, the summit was a testament to the growing interest and engagement within the AI engineering community.
+
+3. **Vendor Neutrality**: The importance of vendor neutrality in fostering a diverse and open community for AI engineers was emphasized, ensuring quality content and discussions over product pitches.
+
+4. **AI Engineering as an Industry**: The discussion posited AI engineering not just as a job title but as the foundation of a new industry, necessitating its own space for growth, learning, and exchange of ideas.
+
+5. **Future of AI Engineering Events**: Plans for the AI Engineer World's Fair were discussed, aiming to be even more inclusive and expansive, allowing for a wider exploration of AI's impact across different sectors.
+
+6. **Multimodality and AI**: The importance of multimodal AI systems was touched upon, suggesting a future where AI can understand and process multiple types of data inputs for richer, more nuanced interactions.
+
+7. **Role of Microsoft in AI**: Sam Schillace shared insights into Microsoft's commitment to AI, from research to product development, and its efforts to make AI tools accessible to a wider audience.
+
+8. **Personal Experience with GPT-4**: Schillace's firsthand experience with GPT-4 highlighted the potential and transformative power of AI, especially in how it handles semantics and understanding complex inputs.
+
+9. **The Future of AI and Code**: A significant portion of the discussion revolved around how AI is transitioning from research to real-world applications, necessitating a new approach to building software that leverages AI's capabilities.
+
+10. **Community and AI Development**: The need for a community-centric approach to AI development was underscored, emphasizing the role of events like the AI Engineer Summit in bringing together practitioners to share, learn, and innovate.
+
 
