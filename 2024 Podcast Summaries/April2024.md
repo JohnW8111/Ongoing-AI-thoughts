@@ -213,4 +213,26 @@ The podcast episode from "Gradient Descent" features Edo Liberty, the founder an
 10. **Future of AI and Jobs**: The ongoing debate about whether AI will replace jobs, with insights suggesting that AI will more likely transform jobs rather than eliminate them entirely.
 
 
+### 9 Latent Space High Agency Pydantic > VC Backed Frameworks — with Jason Liu of Instructor
+# Key Points
+1. **Early Skepticism Towards LLMs**: Jason shares his initial skepticism towards the utility of LLMs in real-world applications, which changed drastically with the advent of more advanced models like ChatGPT.
+
+2. **Recommendation Systems at Stitch Fix**: He describes his role in developing recommendation systems at Stitch Fix, using AI to optimize stylist efficiency through early adoption of LLMs before they were mainstream.
+
+3. **Shift from Skepticism to Advocacy**: Jason discusses his shift from skepticism to strong advocacy for LLMs post the success of models like GPT-3 and ChatGPT, noting the significant improvements in AI capabilities.
+
+4. **Development of the Flight Framework**: The creation of the Flight recommendation framework, which served over 350 million requests daily, was a response to the need for standardizing ML efforts across teams at Stitch Fix.
+
+5. **Impact of AI on Business Operations**: Jason highlights how AI integration, particularly through his similarity search system, saved over $50 million in annual revenue for Stitch Fix.
+
+6. **Personal Journey with AI**: Reflects on his personal evolution in the tech field, transitioning from hands-on coding to broader strategic roles due to a hand injury, and his eventual deep dive back into AI.
+
+7. **Consultancy and AI Strategy Development**: Post-Stitch Fix, Jason shifted towards consulting, helping companies to formulate and implement AI strategies, capitalizing on his extensive experience.
+
+8. **Educational Contributions and Public Speaking**: He mentions engaging in public speaking and educational endeavors to share his knowledge and experiences, influencing the broader AI and tech community.
+
+9. **Opinions on AI Development Tools and Practices**: Offers critical views on current AI tools and practices, suggesting improvements and advocating for more efficient and meaningful AI applications.
+
+10. **Future Predictions and Advice for AI Aspirants**: Provides advice for upcoming AI professionals and shares his predictions for the future developments in AI, emphasizing continuous learning and adaptation.
+
 
