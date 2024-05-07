@@ -70,4 +70,4 @@
    - If you want to get into a lot more detail about this here is a good site to start with (https://github.com/swyxio/ai-notes?tab=readme-ov-file)
      
 A lot of this outline is adapted from a talk by Nathan Labenz Cognitive revolution https://www.youtube.com/watch?v=KIhGtkWPKJc
-Also some ideas
+
